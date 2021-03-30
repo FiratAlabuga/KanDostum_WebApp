@@ -12,7 +12,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon fire_server.js"
+    "start": "node fire_server.js"
   },
   "author": "JFA",
   "license": "ISC"
